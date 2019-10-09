@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List_Wrapper>
+<_bp>
+      <UEMS_uxcop_GWDCAcc_CA>2051092.40000000</UEMS_uxcop_GWDCAcc_CA>
+      <UEMS_uxcop_GWDPAcc_CA>0.00000000</UEMS_uxcop_GWDPAcc_CA>
+      <UEMS_uxcop_GrsWDTisClm_CA>2051092.40000000</UEMS_uxcop_GrsWDTisClm_CA>
+      <UEMS_uxcop_NWDCAcc_CA>1998592.12000000</UEMS_uxcop_NWDCAcc_CA>
+      <UEMS_uxcop_NWDPAcc_CA>0.00000000</UEMS_uxcop_NWDPAcc_CA>
+      <UEMS_uxcop_NetWDTisClm_CA>1998592.12000000</UEMS_uxcop_NetWDTisClm_CA>
+      <UEMS_uxcop_DtConPAcc_CA>0.00000000</UEMS_uxcop_DtConPAcc_CA>
+      <UEMS_uxcop_TDACAcc_CA>0.00000000</UEMS_uxcop_TDACAcc_CA>
+      <UEMS_uxcop_TotDAmtTisClm_CA>0.00000000</UEMS_uxcop_TotDAmtTisClm_CA>
+      <UEMS_uxcop_TRAPAcc_CA>0.00000000</UEMS_uxcop_TRAPAcc_CA>
+      <UEMS_uxcop_TotRetCAcc_CA>0.00000000</UEMS_uxcop_TotRetCAcc_CA>
+      <UEMS_uxcop_TotRetTisPer_CA>0.00000000</UEMS_uxcop_TotRetTisPer_CA>
+      <UEMS_uxcop_TMCertCAcc_CA>1998592.12000000</UEMS_uxcop_TMCertCAcc_CA>
+      <UEMS_uxcop_TACertPAcc_CA>0.00000000</UEMS_uxcop_TACertPAcc_CA>
+      <UEMS_uxcop_UShDrwCAcc_CA>0.00000000</UEMS_uxcop_UShDrwCAcc_CA>
+      <UEMS_uxcop_UShDrwPAcc_CA>0.00000000</UEMS_uxcop_UShDrwPAcc_CA>
+      <UEMS_uxcop_UShDrwTisClm_CA>0.00000000</UEMS_uxcop_UShDrwTisClm_CA>
+      <UEMS_uxcop_arccertdoc_PD>0</UEMS_uxcop_arccertdoc_PD>
+      <UEM_uxcop_AssBank_MTL4000></UEM_uxcop_AssBank_MTL4000>
+      <UEMS_uxall_AwrdAmnt_CA>2051092.40000000</UEMS_uxall_AwrdAmnt_CA>
+      <UEMS_uxallcnc_BRegNo_TB16></UEMS_uxallcnc_BRegNo_TB16>
+      <UEMS_uxcop_CMGD_DOP></UEMS_uxcop_CMGD_DOP>
+      <UEMS_uxcop_CNC_DOP></UEMS_uxcop_CNC_DOP>
+      <UEMS_uxcop_CopNo_TB32>SU-COP 08 [PENULTIMATE]</UEMS_uxcop_CopNo_TB32>
+      <UEMS_uxcop_CPC_DOP>11-11-2017 00:00:00</UEMS_uxcop_CPC_DOP>
+      <UEMS_uxcop_COWDCAcc_CA>0.00000000</UEMS_uxcop_COWDCAcc_CA>
+      <UEMS_uxcop_COWDPAcc_CA>0.00000000</UEMS_uxcop_COWDPAcc_CA>
+      <UEMS_uxcop_COWD0PTisClm_CA>0.00000000</UEMS_uxcop_COWD0PTisClm_CA>
+      <UEMS_uxcop_COW6DCAcc_CA>2098761.30000000</UEMS_uxcop_COW6DCAcc_CA>
+      <UEMS_uxcop_COWD6PTisClm_CA>2098761.30000000</UEMS_uxcop_COWD6PTisClm_CA>
+      <UEMS_uxcop_VOAmt_SNQB>24759796.50000000</UEMS_uxcop_VOAmt_SNQB>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOWOGSTPAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTPAcc_CA>
+      <UEMS_uxcop_CerVOWOGST_CA>0.00000000</UEMS_uxcop_CerVOWOGST_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>-47668.90000000</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTPAcc_CA>0.00000000</UEMS_uxcop_CVOW6GSTPAcc_CA>
+      <UEMS_uxcop_CerVOWGST_CA>-47668.90000000</UEMS_uxcop_CerVOWGST_CA>
+      <UEMS_uxuemsub_CmpnyCd_TB8></UEMS_uxuemsub_CmpnyCd_TB8>
+      <UEMS_uxall_CmpnyNm_TB250>IBARAT DUTA SDN BHD</UEMS_uxall_CmpnyNm_TB250>
+      <UEMS_uxcop_ContId_TB32></UEMS_uxcop_ContId_TB32>
+      <UEMS_uxcop_ConName_TB250></UEMS_uxcop_ConName_TB250>
+      <uuu_creation_date>05-27-2019 15:33:17</uuu_creation_date>
+      <creator_id>Mani Karthikeyan</creator_id>
+      <UEMS_uxcoppay_CpaCOP_CA>1075000.00000000</UEMS_uxcoppay_CpaCOP_CA>
+      <UEMS_uxloa_DtCmncmnt_DOP>08-14-2017 00:00:00</UEMS_uxloa_DtCmncmnt_DOP>
+      <UEMS_uxcop_DConFinTisClm_CA>0.00000000</UEMS_uxcop_DConFinTisClm_CA>
+      <UEMS_uxcop_DTConTisClam_CA>0.00000000</UEMS_uxcop_DTConTisClam_CA>
+      <UEMS_uxcop_DTConFSPAcc_CA>0.00000000</UEMS_uxcop_DTConFSPAcc_CA>
+      <UEMS_uxcop_DConRecCAcc_CA>0.00000000</UEMS_uxcop_DConRecCAcc_CA>
+      <UEMS_uxcop_DConRecPAcc_CA>0.00000000</UEMS_uxcop_DConRecPAcc_CA>
+      <UEMS_uxcop_DConMSTisClm_CA>0.00000000</UEMS_uxcop_DConMSTisClm_CA>
+      <UEMS_uxcop_DConMSCAcc_CA>0.00000000</UEMS_uxcop_DConMSCAcc_CA>
+      <UEMS_uxcop_DConMSPAcc_CA>0.00000000</UEMS_uxcop_DConMSPAcc_CA>
+      <UEMS_uxcop_DConRecTisClm_CA>0.00000000</UEMS_uxcop_DConRecTisClm_CA>
+      <UEM_uxcop_DirPayDet_MTL4000></UEM_uxcop_DirPayDet_MTL4000>
+      <UEMS_uxloawo_DcmntType_PD>Letter of Award</UEMS_uxloawo_DcmntType_PD>
+      <UEMS_uxcop_EOT_DOP>11-11-2017 00:00:00</UEMS_uxcop_EOT_DOP>
+      <uuu_effective_date>05-27-2019 15:33:17</uuu_effective_date>
+      <UEMS_uxconsrq_EstdAmnt_CA>0.00000000</UEMS_uxconsrq_EstdAmnt_CA>
+      <UEMS_uxcop_GrsWDP_DA>99.94000000</UEMS_uxcop_GrsWDP_DA>
+      <UEMS_uxcop_GWDP_DA>0.00000000</UEMS_uxcop_GWDP_DA>
+      <UEMS_uxcop_IMLogs_MTL4000></UEMS_uxcop_IMLogs_MTL4000>
+      <UEMS_uxcop_IMStatus_TB32></UEMS_uxcop_IMStatus_TB32>
+      <UEMS_uxcop_invdoc_PD>0</UEMS_uxcop_invdoc_PD>
+      <UEMS_uxcop_2APCertPAcc_CA>0.00000000</UEMS_uxcop_2APCertPAcc_CA>
+      <UEMS_uxcop_APCertPAcc_CA>0.00000000</UEMS_uxcop_APCertPAcc_CA>
+      <UEMS_uxcop_RecCAcc_CA>0.00000000</UEMS_uxcop_RecCAcc_CA>
+      <UEMS_uxcop_RecoupPAcc_CA>0.00000000</UEMS_uxcop_RecoupPAcc_CA>
+      <UEMS_uxcop_RecTisClm_CA>0.00000000</UEMS_uxcop_RecTisClm_CA>
+      <UEMS_uxcop_RetSumCAccF_CA>0.00000000</UEMS_uxcop_RetSumCAccF_CA>
+      <UEMS_uxcop_RetSumPAcc_CA>0.00000000</UEMS_uxcop_RetSumPAcc_CA>
+      <UEMS_uxcop_RetSum0P_CA>0.00000000</UEMS_uxcop_RetSum0P_CA>
+      <UEMS_uxcop_RetSum6PCAcc_CA>-105000.57000000</UEMS_uxcop_RetSum6PCAcc_CA>
+      <UEMS_uxcop_RetSum6PAcc_CA>0.00000000</UEMS_uxcop_RetSum6PAcc_CA>
+      <UEMS_uxcop_RetSum6P_CA>-105000.57000000</UEMS_uxcop_RetSum6P_CA>
+      <refid>CMD_S3.PA/AWD-0001</refid>
+      <UEM_uxuemloa_LOARefNo_TB120>CMD_S3.PA/AWD-0001</UEM_uxuemloa_LOARefNo_TB120>
+      <UEM_uxuemloa_LOANoOld_TB120>PCD/S3/AWD-005-2017</UEM_uxuemloa_LOANoOld_TB120>
+      <UEMS_uxloa_LmtRtntn_DA>5.00000000</UEMS_uxloa_LmtRtntn_DA>
+      <UEMS_uxloa_RtntnAmnt_CA>-105000.57000000</UEMS_uxloa_RtntnAmnt_CA>
+      <UEMS_uxcop_LDCAcc_CA>0.00000000</UEMS_uxcop_LDCAcc_CA>
+      <UEMS_uxcop_LDPAcc_CA>0.00000000</UEMS_uxcop_LDPAcc_CA>
+      <UEMS_uxcop_LDTisClm_CA>0.00000000</UEMS_uxcop_LDTisClm_CA>
+      <UEMS_uxcop_MOSCAcc_CA>0.00000000</UEMS_uxcop_MOSCAcc_CA>
+      <UEMS_uxcop_MOS75PPAcc_CA>0.00000000</UEMS_uxcop_MOS75PPAcc_CA>
+      <UEMS_uxcop_MOSTisClm_CA>0.00000000</UEMS_uxcop_MOSTisClm_CA>
+      <UEMS_uxcop_MOSPer_DA>75.00000000</UEMS_uxcop_MOSPer_DA>
+      <UEMS_uxcop_MOSAmt_CA>0.00000000</UEMS_uxcop_MOSAmt_CA>
+      <UEMS_uxcop_RetSumCAcc_CA>-205109.24000000</UEMS_uxcop_RetSumCAcc_CA>
+      <UEMS_uxcop_MUPENCAcc_CA>0.00000000</UEMS_uxcop_MUPENCAcc_CA>
+      <UEMS_uxcop_MUPENPAcc_CA>0.00000000</UEMS_uxcop_MUPENPAcc_CA>
+      <UEMS_uxcop_MUPENTisClm_CA>0.00000000</UEMS_uxcop_MUPENTisClm_CA>
+      <UEMS_uxcop_NetWD6PTisClm_CA>0.00000000</UEMS_uxcop_NetWD6PTisClm_CA>
+      <UEMS_uxcop_OriConSum_CA>2100011.30000000</UEMS_uxcop_OriConSum_CA>
+      <UEMS_uxcop_DMAcceCAcc_CA>0.00000000</UEMS_uxcop_DMAcceCAcc_CA>
+      <UEMS_uxcop_DMAccePAcc_CA>0.00000000</UEMS_uxcop_DMAccePAcc_CA>
+      <UEMS_uxcop_DMAcceTisClm_CA>0.00000000</UEMS_uxcop_DMAcceTisClm_CA>
+      <UEMS_uxcop_OTConCAcc_CA>0.00000000</UEMS_uxcop_OTConCAcc_CA>
+      <UEMS_uxcop_OTConPAcc_CA>0.00000000</UEMS_uxcop_OTConPAcc_CA>
+      <UEMS_uxcop_OTConTisClm_CA>0.00000000</UEMS_uxcop_OTConTisClm_CA>
+      <UEMS_uxloawo_PckgNme_TB250>INTERIOR DESIGN &amp; BUILD FOR SHOW UNITS</UEMS_uxloawo_PckgNme_TB250>
+      <UEMS_uxloawo_PckgNme_TB50></UEMS_uxloawo_PckgNme_TB50>
+      <UEMS_uxloa_PrjctDsc_MTL4000>For Cadangan Pembangunan Bercampur Yang Mengandungi 2 Blok Menara Pangsapuri Servis (576 Unit) Yang Terdiri Daripada 1 Blok Menara Pangsapuri Servis 41 Tingkat (288 Unit) (Blok A), 1 Blok Menara Pangsapuri Servis 41 Tingkat (288 Unit) (Blok B) Termasuk 6 Tingkat Podium Yang Terdiri Daripada 1 Tingkat Kemudahan Awam Termasuk 1 Unit Ruang Perniagaan Dan 5 Tingkat Podium Tempat Letak Kereta Di Atas Sebahagian Lot 58688 (Dahulunya Lot Pt17437), Jalan Changkat Hartamas, Mukim Batu, Kuala Lumpur
+</UEMS_uxloa_PrjctDsc_MTL4000>
+      <UEMS_upr_ProjID_TB120>S3.PA</UEMS_upr_ProjID_TB120>
+      <project_projectname>SOLARIS - PLOT A</project_projectname>
+      <project_projectnumber>P-0084</project_projectnumber>
+      <record_no>COP-0000001</record_no>
+      <UEMS_uxcop_RelRetPrev_CA>0.00000000</UEMS_uxcop_RelRetPrev_CA>
+      <UEMS_uxcop_RelRetainage_CA>52500.29000000</UEMS_uxcop_RelRetainage_CA>
+      <UEMS_uxcop_RelRetCurr_CA>52500.29000000</UEMS_uxcop_RelRetCurr_CA>
+      <UEMS_uxcop_RetNSPBCAcc_CA>0.00000000</UEMS_uxcop_RetNSPBCAcc_CA>
+      <UEMS_uxcop_RetNSPBPAcc_CA>0.00000000</UEMS_uxcop_RetNSPBPAcc_CA>
+      <UEMS_uxcop_RetNSPBTisClm_CA>0.00000000</UEMS_uxcop_RetNSPBTisClm_CA>
+      <UEMS_uxcop_RetPEachCOP_DA>10.00000000</UEMS_uxcop_RetPEachCOP_DA>
+      <UEMS_uxcop_RetSumGCAcc_SNQB>-105000.57000000</UEMS_uxcop_RetSumGCAcc_SNQB>
+      <UEMS_uxcop_RetSumCAcc_SNQB>0.00000000</UEMS_uxcop_RetSumCAcc_SNQB>
+      <UEMS_uxcop_AdjConSum_CA>2052342.40000000</UEMS_uxcop_AdjConSum_CA>
+      <status>Approved</status>
+      <UEMS_uxcop_TNBPenCAcc_CA>0.00000000</UEMS_uxcop_TNBPenCAcc_CA>
+      <UEMS_uxcop_TNBPenPAcc_CA>0.00000000</UEMS_uxcop_TNBPenPAcc_CA>
+      <UEMS_uxcop_TNBPenTisClm_CA>0.00000000</UEMS_uxcop_TNBPenTisClm_CA>
+      <UEMS_uxcop_APrevCert_CA>1998592.12000000</UEMS_uxcop_APrevCert_CA>
+      <UEMS_uxall_TCApp_SNQB>-47668.90000000</UEMS_uxall_TCApp_SNQB>
+      <UEMS_uxcop_TDA6PTisClm_CA>0.00000000</UEMS_uxcop_TDA6PTisClm_CA>
+      <UEMS_uxcop_TGST6PTisClm_CA>0.00000000</UEMS_uxcop_TGST6PTisClm_CA>
+      <UEMS_uxcop_TotPreP0GST_CA>0.00000000</UEMS_uxcop_TotPreP0GST_CA>
+      <UEMS_uxcop_TotPreP6GST_CA>0.00000000</UEMS_uxcop_TotPreP6GST_CA>
+      <upaSumOfRetainageCA>-205109.24000000</upaSumOfRetainageCA>
+      <UEMS_uxcop_VODCOWD0PTC_CA>0.00000000</UEMS_uxcop_VODCOWD0PTC_CA>
+      <UEMS_uxcop_VODCOWD6PTC_CA>-47668.90000000</UEMS_uxcop_VODCOWD6PTC_CA>
+      <UEMS_uxcop_VOICVOGSTCAc_CA>0.00000000</UEMS_uxcop_VOICVOGSTCAc_CA>
+      <UEMS_uxcop_VOICVO6GSTCAc_CA>-47668.90000000</UEMS_uxcop_VOICVO6GSTCAc_CA>
+      <UEMS_uxcop_VOICerVOWOGST_CA>0.00000000</UEMS_uxcop_VOICerVOWOGST_CA>
+      <UEMS_uxcop_VOICerVOWGST_CA>-47668.90000000</UEMS_uxcop_VOICerVOWGST_CA>
+      <UEMS_uxcop_VarOrder_CA>-47668.90000000</UEMS_uxcop_VarOrder_CA>
+      <UEMS_uxrecven_VndorNm_TB250>WINENRICH ENTERPRISE SDN. BHD.</UEMS_uxrecven_VndorNm_TB250>
+      <UEMS_uxcop_NetWDCC_CA>0.00000000</UEMS_uxcop_NetWDCC_CA>
+      <UEMS_uxcop_NetWDPAA_CA>0.00000000</UEMS_uxcop_NetWDPAA_CA>
+      <UEMS_uxcop_NetWDTC_CA>0.00000000</UEMS_uxcop_NetWDTC_CA>
+      <UEMS_uxcop_TotDedAmtCC_CA>0.00000000</UEMS_uxcop_TotDedAmtCC_CA>
+      <UEMS_uxcop_TotDedAmtPAA_CA>0.00000000</UEMS_uxcop_TotDedAmtPAA_CA>
+      <UEMS_uxcop_TotDedAmtTC_CA>0.00000000</UEMS_uxcop_TotDedAmtTC_CA>
+      <UEMS_uxcop_TotGSTAmtCC_CA>0.00000000</UEMS_uxcop_TotGSTAmtCC_CA>
+      <UEMS_uxcop_TotGSTAmtPAA_CA>0.00000000</UEMS_uxcop_TotGSTAmtPAA_CA>
+      <UEMS_uxcop_TotGSTAmtTC_CA>0.00000000</UEMS_uxcop_TotGSTAmtTC_CA>
+      <UEMS_uxcop_TotAmtRecTC_CA>0.00000000</UEMS_uxcop_TotAmtRecTC_CA>
+      <UEMS_uxcop_AsPLerRef_TB120></UEMS_uxcop_AsPLerRef_TB120>
+      <UEMS_uxcop_BankAccNo_TB250></UEMS_uxcop_BankAccNo_TB250>
+      <UEMS_uxcop_BankAdd_TB250></UEMS_uxcop_BankAdd_TB250>
+      <UEMS_uxcop_BankName_TB250></UEMS_uxcop_BankName_TB250>
+      <UEMS_uxcop_CerRec_DO></UEMS_uxcop_CerRec_DO>
+      <UEMS_uxcop_DOC_DO></UEMS_uxcop_DOC_DO>
+      <UEMS_uxcop_InvcDt_DO></UEMS_uxcop_InvcDt_DO>
+      <UEMS_uxcop_InvcNo_TB120></UEMS_uxcop_InvcNo_TB120>
+      <UEMS_uxcop_LatPayDt_DO></UEMS_uxcop_LatPayDt_DO>
+      <UEMS_uxcop_PerEnd_DO></UEMS_uxcop_PerEnd_DO>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~B6~~4432</bItemID>
+      <scheduled_value>1165005.69</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>0.00</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>1165005.69</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>ID Works (Contractor's Design Proposal)</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>4</_refnum>
+</_bp_lineitems>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~B6~~4432</bItemID>
+      <scheduled_value>135073.25</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>0.00</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>135073.25</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>Mechanical &amp; Electrical Services</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>5</_refnum>
+</_bp_lineitems>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~B6~~4432</bItemID>
+      <scheduled_value>100000.00</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>0.00</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>100000.00</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>Provisional Sum</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>6</_refnum>
+</_bp_lineitems>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~B6~~4432</bItemID>
+      <scheduled_value>-47668.90</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>0.00</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>0.00</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>-47668.90</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>Show Units</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>7</_refnum>
+</_bp_lineitems>
+</_bp>
+<_bp>
+      <UEMS_uxcop_GWDCAcc_CA>11043930.57000000</UEMS_uxcop_GWDCAcc_CA>
+      <UEMS_uxcop_GWDPAcc_CA>0.00000000</UEMS_uxcop_GWDPAcc_CA>
+      <UEMS_uxcop_GrsWDTisClm_CA>11043930.57000000</UEMS_uxcop_GrsWDTisClm_CA>
+      <UEMS_uxcop_NWDCAcc_CA>9939537.51000000</UEMS_uxcop_NWDCAcc_CA>
+      <UEMS_uxcop_NWDPAcc_CA>0.00000000</UEMS_uxcop_NWDPAcc_CA>
+      <UEMS_uxcop_NetWDTisClm_CA>9939537.51000000</UEMS_uxcop_NetWDTisClm_CA>
+      <UEMS_uxcop_DtConPAcc_CA>0.00000000</UEMS_uxcop_DtConPAcc_CA>
+      <UEMS_uxcop_TDACAcc_CA>-8708.20000000</UEMS_uxcop_TDACAcc_CA>
+      <UEMS_uxcop_TotDAmtTisClm_CA>-8708.20000000</UEMS_uxcop_TotDAmtTisClm_CA>
+      <UEMS_uxcop_TRAPAcc_CA>0.00000000</UEMS_uxcop_TRAPAcc_CA>
+      <UEMS_uxcop_TotRetCAcc_CA>-15500.00000000</UEMS_uxcop_TotRetCAcc_CA>
+      <UEMS_uxcop_TotRetTisPer_CA>-15500.00000000</UEMS_uxcop_TotRetTisPer_CA>
+      <UEMS_uxcop_TMCertCAcc_CA>9915329.31000000</UEMS_uxcop_TMCertCAcc_CA>
+      <UEMS_uxcop_TACertPAcc_CA>0.00000000</UEMS_uxcop_TACertPAcc_CA>
+      <UEMS_uxcop_UShDrwCAcc_CA>0.00000000</UEMS_uxcop_UShDrwCAcc_CA>
+      <UEMS_uxcop_UShDrwPAcc_CA>0.00000000</UEMS_uxcop_UShDrwPAcc_CA>
+      <UEMS_uxcop_UShDrwTisClm_CA>0.00000000</UEMS_uxcop_UShDrwTisClm_CA>
+      <UEMS_uxcop_arccertdoc_PD>0</UEMS_uxcop_arccertdoc_PD>
+      <UEM_uxcop_AssBank_MTL4000></UEM_uxcop_AssBank_MTL4000>
+      <UEMS_uxall_AwrdAmnt_CA>10320180.57000000</UEMS_uxall_AwrdAmnt_CA>
+      <UEMS_uxallcnc_BRegNo_TB16></UEMS_uxallcnc_BRegNo_TB16>
+      <UEMS_uxcop_CMGD_DOP></UEMS_uxcop_CMGD_DOP>
+      <UEMS_uxcop_CNC_DOP></UEMS_uxcop_CNC_DOP>
+      <UEMS_uxcop_CopNo_TB32>MBW-COP 06</UEMS_uxcop_CopNo_TB32>
+      <UEMS_uxcop_CPC_DOP></UEMS_uxcop_CPC_DOP>
+      <UEMS_uxcop_COWDCAcc_CA>10320180.57000000</UEMS_uxcop_COWDCAcc_CA>
+      <UEMS_uxcop_COWDPAcc_CA>0.00000000</UEMS_uxcop_COWDPAcc_CA>
+      <UEMS_uxcop_COWD0PTisClm_CA>10320180.57000000</UEMS_uxcop_COWD0PTisClm_CA>
+      <UEMS_uxcop_COW6DCAcc_CA>0.00000000</UEMS_uxcop_COW6DCAcc_CA>
+      <UEMS_uxcop_COWD6PTisClm_CA>0.00000000</UEMS_uxcop_COWD6PTisClm_CA>
+      <UEMS_uxcop_VOAmt_SNQB>24759796.50000000</UEMS_uxcop_VOAmt_SNQB>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOWOGSTPAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTPAcc_CA>
+      <UEMS_uxcop_CerVOWOGST_CA>0.00000000</UEMS_uxcop_CerVOWOGST_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00000000</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTPAcc_CA>0.00000000</UEMS_uxcop_CVOW6GSTPAcc_CA>
+      <UEMS_uxcop_CerVOWGST_CA>0.00000000</UEMS_uxcop_CerVOWGST_CA>
+      <UEMS_uxuemsub_CmpnyCd_TB8></UEMS_uxuemsub_CmpnyCd_TB8>
+      <UEMS_uxall_CmpnyNm_TB250>IBARAT DUTA SDN BHD</UEMS_uxall_CmpnyNm_TB250>
+      <UEMS_uxcop_ContId_TB32></UEMS_uxcop_ContId_TB32>
+      <UEMS_uxcop_ConName_TB250></UEMS_uxcop_ConName_TB250>
+      <uuu_creation_date>05-27-2019 16:12:43</uuu_creation_date>
+      <creator_id>Mani Karthikeyan</creator_id>
+      <UEMS_uxcoppay_CpaCOP_CA>0.00000000</UEMS_uxcoppay_CpaCOP_CA>
+      <UEMS_uxloa_DtCmncmnt_DOP>09-15-2018 00:00:00</UEMS_uxloa_DtCmncmnt_DOP>
+      <UEMS_uxcop_DConFinTisClm_CA>-15500.00000000</UEMS_uxcop_DConFinTisClm_CA>
+      <UEMS_uxcop_DTConTisClam_CA>-15500.00000000</UEMS_uxcop_DTConTisClam_CA>
+      <UEMS_uxcop_DTConFSPAcc_CA>0.00000000</UEMS_uxcop_DTConFSPAcc_CA>
+      <UEMS_uxcop_DConRecCAcc_CA>0.00000000</UEMS_uxcop_DConRecCAcc_CA>
+      <UEMS_uxcop_DConRecPAcc_CA>0.00000000</UEMS_uxcop_DConRecPAcc_CA>
+      <UEMS_uxcop_DConMSTisClm_CA>0.00000000</UEMS_uxcop_DConMSTisClm_CA>
+      <UEMS_uxcop_DConMSCAcc_CA>0.00000000</UEMS_uxcop_DConMSCAcc_CA>
+      <UEMS_uxcop_DConMSPAcc_CA>0.00000000</UEMS_uxcop_DConMSPAcc_CA>
+      <UEMS_uxcop_DConRecTisClm_CA>0.00000000</UEMS_uxcop_DConRecTisClm_CA>
+      <UEM_uxcop_DirPayDet_MTL4000></UEM_uxcop_DirPayDet_MTL4000>
+      <UEMS_uxloawo_DcmntType_PD>Letter of Award</UEMS_uxloawo_DcmntType_PD>
+      <UEMS_uxcop_EOT_DOP></UEMS_uxcop_EOT_DOP>
+      <uuu_effective_date>05-27-2019 16:12:43</uuu_effective_date>
+      <UEMS_uxconsrq_EstdAmnt_CA>10320180.57000000</UEMS_uxconsrq_EstdAmnt_CA>
+      <UEMS_uxcop_GrsWDP_DA>3.86000000</UEMS_uxcop_GrsWDP_DA>
+      <UEMS_uxcop_GWDP_DA>0.00000000</UEMS_uxcop_GWDP_DA>
+      <UEMS_uxcop_IMLogs_MTL4000></UEMS_uxcop_IMLogs_MTL4000>
+      <UEMS_uxcop_IMStatus_TB32></UEMS_uxcop_IMStatus_TB32>
+      <UEMS_uxcop_invdoc_PD>0</UEMS_uxcop_invdoc_PD>
+      <UEMS_uxcop_2APCertPAcc_CA>0.00000000</UEMS_uxcop_2APCertPAcc_CA>
+      <UEMS_uxcop_APCertPAcc_CA>0.00000000</UEMS_uxcop_APCertPAcc_CA>
+      <UEMS_uxcop_RecCAcc_CA>0.00000000</UEMS_uxcop_RecCAcc_CA>
+      <UEMS_uxcop_RecoupPAcc_CA>0.00000000</UEMS_uxcop_RecoupPAcc_CA>
+      <UEMS_uxcop_RecTisClm_CA>0.00000000</UEMS_uxcop_RecTisClm_CA>
+      <UEMS_uxcop_RetSumCAccF_CA>-1104393.06000000</UEMS_uxcop_RetSumCAccF_CA>
+      <UEMS_uxcop_RetSumPAcc_CA>0.00000000</UEMS_uxcop_RetSumPAcc_CA>
+      <UEMS_uxcop_RetSum0P_CA>-1104393.06000000</UEMS_uxcop_RetSum0P_CA>
+      <UEMS_uxcop_RetSum6PCAcc_CA>0.00000000</UEMS_uxcop_RetSum6PCAcc_CA>
+      <UEMS_uxcop_RetSum6PAcc_CA>0.00000000</UEMS_uxcop_RetSum6PAcc_CA>
+      <UEMS_uxcop_RetSum6P_CA>0.00000000</UEMS_uxcop_RetSum6P_CA>
+      <refid>CMD_S3.PA/AWD-0002</refid>
+      <UEM_uxuemloa_LOARefNo_TB120>CMD_S3.PA/AWD-0002</UEM_uxuemloa_LOARefNo_TB120>
+      <UEM_uxuemloa_LOANoOld_TB120>PCD/S3/AWD-006-2018</UEM_uxuemloa_LOANoOld_TB120>
+      <UEMS_uxloa_LmtRtntn_DA>5.00000000</UEMS_uxloa_LmtRtntn_DA>
+      <UEMS_uxloa_RtntnAmnt_CA>-14305539.60000000</UEMS_uxloa_RtntnAmnt_CA>
+      <UEMS_uxcop_LDCAcc_CA>0.00000000</UEMS_uxcop_LDCAcc_CA>
+      <UEMS_uxcop_LDPAcc_CA>0.00000000</UEMS_uxcop_LDPAcc_CA>
+      <UEMS_uxcop_LDTisClm_CA>0.00000000</UEMS_uxcop_LDTisClm_CA>
+      <UEMS_uxcop_MOSCAcc_CA>723750.00000000</UEMS_uxcop_MOSCAcc_CA>
+      <UEMS_uxcop_MOS75PPAcc_CA>0.00000000</UEMS_uxcop_MOS75PPAcc_CA>
+      <UEMS_uxcop_MOSTisClm_CA>723750.00000000</UEMS_uxcop_MOSTisClm_CA>
+      <UEMS_uxcop_MOSPer_DA>75.00000000</UEMS_uxcop_MOSPer_DA>
+      <UEMS_uxcop_MOSAmt_CA>0.00000000</UEMS_uxcop_MOSAmt_CA>
+      <UEMS_uxcop_RetSumCAcc_CA>-1104393.06000000</UEMS_uxcop_RetSumCAcc_CA>
+      <UEMS_uxcop_MUPENCAcc_CA>0.00000000</UEMS_uxcop_MUPENCAcc_CA>
+      <UEMS_uxcop_MUPENPAcc_CA>0.00000000</UEMS_uxcop_MUPENPAcc_CA>
+      <UEMS_uxcop_MUPENTisClm_CA>0.00000000</UEMS_uxcop_MUPENTisClm_CA>
+      <UEMS_uxcop_NetWD6PTisClm_CA>0.00000000</UEMS_uxcop_NetWD6PTisClm_CA>
+      <UEMS_uxcop_OriConSum_CA>286110791.95999996</UEMS_uxcop_OriConSum_CA>
+      <UEMS_uxcop_DMAcceCAcc_CA>0.00000000</UEMS_uxcop_DMAcceCAcc_CA>
+      <UEMS_uxcop_DMAccePAcc_CA>0.00000000</UEMS_uxcop_DMAccePAcc_CA>
+      <UEMS_uxcop_DMAcceTisClm_CA>0.00000000</UEMS_uxcop_DMAcceTisClm_CA>
+      <UEMS_uxcop_OTConCAcc_CA>-8708.20000000</UEMS_uxcop_OTConCAcc_CA>
+      <UEMS_uxcop_OTConPAcc_CA>0.00000000</UEMS_uxcop_OTConPAcc_CA>
+      <UEMS_uxcop_OTConTisClm_CA>-8708.20000000</UEMS_uxcop_OTConTisClm_CA>
+      <UEMS_uxloawo_PckgNme_TB250>MAIN BUILDING WORKS</UEMS_uxloawo_PckgNme_TB250>
+      <UEMS_uxloawo_PckgNme_TB50></UEMS_uxloawo_PckgNme_TB50>
+      <UEMS_uxloa_PrjctDsc_MTL4000>For Cadangan Pembangunan Bercampur Yang Mengandungi 2 Blok Menara Pangsapuri Servis (576 Unit) Yang Terdiri Daripada 1 Blok Menara Pangsapuri Servis 41 Tingkat (288 Unit) (Blok A), 1 Blok Menara Pangsapuri Servis 41 Tingkat (288 Unit) (Blok B) Termasuk 6 Tingkat Podium Yang Terdiri Daripada 1 Tingkat Kemudahan Awam Termasuk 1 Unit Ruang Perniagaan Dan 5 Tingkat Podium Tempat Letak Kereta Di Atas Sebahagian Lot 58688 (Dahulunya Lot Pt17437), Jalan Changkat Hartamas, Mukim Batu, Kuala Lumpur
+</UEMS_uxloa_PrjctDsc_MTL4000>
+      <UEMS_upr_ProjID_TB120>S3.PA</UEMS_upr_ProjID_TB120>
+      <project_projectname>SOLARIS - PLOT A</project_projectname>
+      <project_projectnumber>P-0084</project_projectnumber>
+      <record_no>COP-0000003</record_no>
+      <UEMS_uxcop_RelRetPrev_CA>0.00000000</UEMS_uxcop_RelRetPrev_CA>
+      <UEMS_uxcop_RelRetainage_CA>0.00000000</UEMS_uxcop_RelRetainage_CA>
+      <UEMS_uxcop_RelRetCurr_CA>0.00000000</UEMS_uxcop_RelRetCurr_CA>
+      <UEMS_uxcop_RetNSPBCAcc_CA>0.00000000</UEMS_uxcop_RetNSPBCAcc_CA>
+      <UEMS_uxcop_RetNSPBPAcc_CA>0.00000000</UEMS_uxcop_RetNSPBPAcc_CA>
+      <UEMS_uxcop_RetNSPBTisClm_CA>0.00000000</UEMS_uxcop_RetNSPBTisClm_CA>
+      <UEMS_uxcop_RetPEachCOP_DA>10.00000000</UEMS_uxcop_RetPEachCOP_DA>
+      <UEMS_uxcop_RetSumGCAcc_SNQB>0.00000000</UEMS_uxcop_RetSumGCAcc_SNQB>
+      <UEMS_uxcop_RetSumCAcc_SNQB>-1104393.06000000</UEMS_uxcop_RetSumCAcc_SNQB>
+      <UEMS_uxcop_AdjConSum_CA>286110791.95999996</UEMS_uxcop_AdjConSum_CA>
+      <status>Approved</status>
+      <UEMS_uxcop_TNBPenCAcc_CA>0.00000000</UEMS_uxcop_TNBPenCAcc_CA>
+      <UEMS_uxcop_TNBPenPAcc_CA>0.00000000</UEMS_uxcop_TNBPenPAcc_CA>
+      <UEMS_uxcop_TNBPenTisClm_CA>0.00000000</UEMS_uxcop_TNBPenTisClm_CA>
+      <UEMS_uxcop_APrevCert_CA>9915329.31000000</UEMS_uxcop_APrevCert_CA>
+      <UEMS_uxall_TCApp_SNQB>0.00000000</UEMS_uxall_TCApp_SNQB>
+      <UEMS_uxcop_TDA6PTisClm_CA>0.00000000</UEMS_uxcop_TDA6PTisClm_CA>
+      <UEMS_uxcop_TGST6PTisClm_CA>0.00000000</UEMS_uxcop_TGST6PTisClm_CA>
+      <UEMS_uxcop_TotPreP0GST_CA>0.00000000</UEMS_uxcop_TotPreP0GST_CA>
+      <UEMS_uxcop_TotPreP6GST_CA>0.00000000</UEMS_uxcop_TotPreP6GST_CA>
+      <upaSumOfRetainageCA>-1104393.06000000</upaSumOfRetainageCA>
+      <UEMS_uxcop_VODCOWD0PTC_CA>0.00000000</UEMS_uxcop_VODCOWD0PTC_CA>
+      <UEMS_uxcop_VODCOWD6PTC_CA>0.00000000</UEMS_uxcop_VODCOWD6PTC_CA>
+      <UEMS_uxcop_VOICVOGSTCAc_CA>0.00000000</UEMS_uxcop_VOICVOGSTCAc_CA>
+      <UEMS_uxcop_VOICVO6GSTCAc_CA>0.00000000</UEMS_uxcop_VOICVO6GSTCAc_CA>
+      <UEMS_uxcop_VOICerVOWOGST_CA>0.00000000</UEMS_uxcop_VOICerVOWOGST_CA>
+      <UEMS_uxcop_VOICerVOWGST_CA>0.00000000</UEMS_uxcop_VOICerVOWGST_CA>
+      <UEMS_uxcop_VarOrder_CA>0.00000000</UEMS_uxcop_VarOrder_CA>
+      <UEMS_uxrecven_VndorNm_TB250>HAB CONSTRUCTION SDN. BHD.</UEMS_uxrecven_VndorNm_TB250>
+      <UEMS_uxcop_NetWDCC_CA>0.00000000</UEMS_uxcop_NetWDCC_CA>
+      <UEMS_uxcop_NetWDPAA_CA>0.00000000</UEMS_uxcop_NetWDPAA_CA>
+      <UEMS_uxcop_NetWDTC_CA>0.00000000</UEMS_uxcop_NetWDTC_CA>
+      <UEMS_uxcop_TotDedAmtCC_CA>0.00000000</UEMS_uxcop_TotDedAmtCC_CA>
+      <UEMS_uxcop_TotDedAmtPAA_CA>0.00000000</UEMS_uxcop_TotDedAmtPAA_CA>
+      <UEMS_uxcop_TotDedAmtTC_CA>0.00000000</UEMS_uxcop_TotDedAmtTC_CA>
+      <UEMS_uxcop_TotGSTAmtCC_CA>0.00000000</UEMS_uxcop_TotGSTAmtCC_CA>
+      <UEMS_uxcop_TotGSTAmtPAA_CA>0.00000000</UEMS_uxcop_TotGSTAmtPAA_CA>
+      <UEMS_uxcop_TotGSTAmtTC_CA>0.00000000</UEMS_uxcop_TotGSTAmtTC_CA>
+      <UEMS_uxcop_TotAmtRecTC_CA>0.00000000</UEMS_uxcop_TotAmtRecTC_CA>
+      <UEMS_uxcop_AsPLerRef_TB120></UEMS_uxcop_AsPLerRef_TB120>
+      <UEMS_uxcop_BankAccNo_TB250></UEMS_uxcop_BankAccNo_TB250>
+      <UEMS_uxcop_BankAdd_TB250></UEMS_uxcop_BankAdd_TB250>
+      <UEMS_uxcop_BankName_TB250></UEMS_uxcop_BankName_TB250>
+      <UEMS_uxcop_CerRec_DO></UEMS_uxcop_CerRec_DO>
+      <UEMS_uxcop_DOC_DO></UEMS_uxcop_DOC_DO>
+      <UEMS_uxcop_InvcDt_DO></UEMS_uxcop_InvcDt_DO>
+      <UEMS_uxcop_InvcNo_TB120></UEMS_uxcop_InvcNo_TB120>
+      <UEMS_uxcop_LatPayDt_DO></UEMS_uxcop_LatPayDt_DO>
+      <UEMS_uxcop_PerEnd_DO></UEMS_uxcop_PerEnd_DO>
+<_bp_lineitems>
+      <uuu_tab_id>Fine/Safety Violation/Kongsi rental (DTC)</uuu_tab_id>
+      <bItemID></bItemID>
+      <scheduled_value>0.00</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>0.00</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>0.00</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>Safety Penalty</description>
+      <uuu_unit_price>-15500.00</uuu_unit_price>
+      <ugenUnitofMeasurePD>each</ugenUnitofMeasurePD>
+      <uuu_quantity>1.0</uuu_quantity>
+      <short_desc>Deduction to Contractor  - Fine/Safety Violation/</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum></_refnum>
+</_bp_lineitems>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~B5~~4501</bItemID>
+      <scheduled_value>29329392.21</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>4834941.64</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>0.00</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>Preliminaries</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>1</_refnum>
+</_bp_lineitems>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~B5~~4501</bItemID>
+      <scheduled_value>29774348.17</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>5442358.93</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>0.00</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>Podium</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>2</_refnum>
+</_bp_lineitems>
+</_bp>
+<_bp>
+      <UEMS_uxcop_GWDCAcc_CA>40.00000000</UEMS_uxcop_GWDCAcc_CA>
+      <UEMS_uxcop_GWDPAcc_CA>0.00000000</UEMS_uxcop_GWDPAcc_CA>
+      <UEMS_uxcop_GrsWDTisClm_CA>40.00000000</UEMS_uxcop_GrsWDTisClm_CA>
+      <UEMS_uxcop_NWDCAcc_CA>36.00000000</UEMS_uxcop_NWDCAcc_CA>
+      <UEMS_uxcop_NWDPAcc_CA>0.00000000</UEMS_uxcop_NWDPAcc_CA>
+      <UEMS_uxcop_NetWDTisClm_CA>36.00000000</UEMS_uxcop_NetWDTisClm_CA>
+      <UEMS_uxcop_DtConPAcc_CA>0.00000000</UEMS_uxcop_DtConPAcc_CA>
+      <UEMS_uxcop_TDACAcc_CA>0.00000000</UEMS_uxcop_TDACAcc_CA>
+      <UEMS_uxcop_TotDAmtTisClm_CA>0.00000000</UEMS_uxcop_TotDAmtTisClm_CA>
+      <UEMS_uxcop_TRAPAcc_CA>0.00000000</UEMS_uxcop_TRAPAcc_CA>
+      <UEMS_uxcop_TotRetCAcc_CA>0.00000000</UEMS_uxcop_TotRetCAcc_CA>
+      <UEMS_uxcop_TotRetTisPer_CA>0.00000000</UEMS_uxcop_TotRetTisPer_CA>
+      <UEMS_uxcop_TMCertCAcc_CA>36.00000000</UEMS_uxcop_TMCertCAcc_CA>
+      <UEMS_uxcop_TACertPAcc_CA>0.00000000</UEMS_uxcop_TACertPAcc_CA>
+      <UEMS_uxcop_UShDrwCAcc_CA>0.00000000</UEMS_uxcop_UShDrwCAcc_CA>
+      <UEMS_uxcop_UShDrwPAcc_CA>0.00000000</UEMS_uxcop_UShDrwPAcc_CA>
+      <UEMS_uxcop_UShDrwTisClm_CA>0.00000000</UEMS_uxcop_UShDrwTisClm_CA>
+      <UEMS_uxcop_arccertdoc_PD>0</UEMS_uxcop_arccertdoc_PD>
+      <UEM_uxcop_AssBank_MTL4000></UEM_uxcop_AssBank_MTL4000>
+      <UEMS_uxall_AwrdAmnt_CA>40.00000000</UEMS_uxall_AwrdAmnt_CA>
+      <UEMS_uxallcnc_BRegNo_TB16></UEMS_uxallcnc_BRegNo_TB16>
+      <UEMS_uxcop_CMGD_DOP></UEMS_uxcop_CMGD_DOP>
+      <UEMS_uxcop_CNC_DOP></UEMS_uxcop_CNC_DOP>
+      <UEMS_uxcop_CopNo_TB32>COP1</UEMS_uxcop_CopNo_TB32>
+      <UEMS_uxcop_CPC_DOP></UEMS_uxcop_CPC_DOP>
+      <UEMS_uxcop_COWDCAcc_CA>40.00000000</UEMS_uxcop_COWDCAcc_CA>
+      <UEMS_uxcop_COWDPAcc_CA>0.00000000</UEMS_uxcop_COWDPAcc_CA>
+      <UEMS_uxcop_COWD0PTisClm_CA>40.00000000</UEMS_uxcop_COWD0PTisClm_CA>
+      <UEMS_uxcop_COW6DCAcc_CA>0.00000000</UEMS_uxcop_COW6DCAcc_CA>
+      <UEMS_uxcop_COWD6PTisClm_CA>0.00000000</UEMS_uxcop_COWD6PTisClm_CA>
+      <UEMS_uxcop_VOAmt_SNQB>24759796.50000000</UEMS_uxcop_VOAmt_SNQB>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOWOGSTPAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTPAcc_CA>
+      <UEMS_uxcop_CerVOWOGST_CA>0.00000000</UEMS_uxcop_CerVOWOGST_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00000000</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTPAcc_CA>0.00000000</UEMS_uxcop_CVOW6GSTPAcc_CA>
+      <UEMS_uxcop_CerVOWGST_CA>0.00000000</UEMS_uxcop_CerVOWGST_CA>
+      <UEMS_uxuemsub_CmpnyCd_TB8></UEMS_uxuemsub_CmpnyCd_TB8>
+      <UEMS_uxall_CmpnyNm_TB250></UEMS_uxall_CmpnyNm_TB250>
+      <UEMS_uxcop_ContId_TB32></UEMS_uxcop_ContId_TB32>
+      <UEMS_uxcop_ConName_TB250></UEMS_uxcop_ConName_TB250>
+      <uuu_creation_date>07-09-2019 09:36:48</uuu_creation_date>
+      <creator_id>PRASANTH P</creator_id>
+      <UEMS_uxcoppay_CpaCOP_CA>0.00000000</UEMS_uxcoppay_CpaCOP_CA>
+      <UEMS_uxloa_DtCmncmnt_DOP>07-09-2019 00:00:00</UEMS_uxloa_DtCmncmnt_DOP>
+      <UEMS_uxcop_DConFinTisClm_CA>0.00000000</UEMS_uxcop_DConFinTisClm_CA>
+      <UEMS_uxcop_DTConTisClam_CA>0.00000000</UEMS_uxcop_DTConTisClam_CA>
+      <UEMS_uxcop_DTConFSPAcc_CA>0.00000000</UEMS_uxcop_DTConFSPAcc_CA>
+      <UEMS_uxcop_DConRecCAcc_CA>0.00000000</UEMS_uxcop_DConRecCAcc_CA>
+      <UEMS_uxcop_DConRecPAcc_CA>0.00000000</UEMS_uxcop_DConRecPAcc_CA>
+      <UEMS_uxcop_DConMSTisClm_CA>0.00000000</UEMS_uxcop_DConMSTisClm_CA>
+      <UEMS_uxcop_DConMSCAcc_CA>0.00000000</UEMS_uxcop_DConMSCAcc_CA>
+      <UEMS_uxcop_DConMSPAcc_CA>0.00000000</UEMS_uxcop_DConMSPAcc_CA>
+      <UEMS_uxcop_DConRecTisClm_CA>0.00000000</UEMS_uxcop_DConRecTisClm_CA>
+      <UEM_uxcop_DirPayDet_MTL4000></UEM_uxcop_DirPayDet_MTL4000>
+      <UEMS_uxloawo_DcmntType_PD>Letter of Award</UEMS_uxloawo_DcmntType_PD>
+      <UEMS_uxcop_EOT_DOP></UEMS_uxcop_EOT_DOP>
+      <uuu_effective_date>07-09-2019 09:36:48</uuu_effective_date>
+      <UEMS_uxconsrq_EstdAmnt_CA>40.00000000</UEMS_uxconsrq_EstdAmnt_CA>
+      <UEMS_uxcop_GrsWDP_DA>4.00000000</UEMS_uxcop_GrsWDP_DA>
+      <UEMS_uxcop_GWDP_DA>0.00000000</UEMS_uxcop_GWDP_DA>
+      <UEMS_uxcop_IMLogs_MTL4000></UEMS_uxcop_IMLogs_MTL4000>
+      <UEMS_uxcop_IMStatus_TB32>NEW</UEMS_uxcop_IMStatus_TB32>
+      <UEMS_uxcop_invdoc_PD>0</UEMS_uxcop_invdoc_PD>
+      <UEMS_uxcop_2APCertPAcc_CA>0.00000000</UEMS_uxcop_2APCertPAcc_CA>
+      <UEMS_uxcop_APCertPAcc_CA>0.00000000</UEMS_uxcop_APCertPAcc_CA>
+      <UEMS_uxcop_RecCAcc_CA>0.00000000</UEMS_uxcop_RecCAcc_CA>
+      <UEMS_uxcop_RecoupPAcc_CA>0.00000000</UEMS_uxcop_RecoupPAcc_CA>
+      <UEMS_uxcop_RecTisClm_CA>0.00000000</UEMS_uxcop_RecTisClm_CA>
+      <UEMS_uxcop_RetSumCAccF_CA>-4.00000000</UEMS_uxcop_RetSumCAccF_CA>
+      <UEMS_uxcop_RetSumPAcc_CA>0.00000000</UEMS_uxcop_RetSumPAcc_CA>
+      <UEMS_uxcop_RetSum0P_CA>-4.00000000</UEMS_uxcop_RetSum0P_CA>
+      <UEMS_uxcop_RetSum6PCAcc_CA>0.00000000</UEMS_uxcop_RetSum6PCAcc_CA>
+      <UEMS_uxcop_RetSum6PAcc_CA>0.00000000</UEMS_uxcop_RetSum6PAcc_CA>
+      <UEMS_uxcop_RetSum6P_CA>0.00000000</UEMS_uxcop_RetSum6P_CA>
+      <refid>CMD_S3.PA/AWD-0007</refid>
+      <UEM_uxuemloa_LOARefNo_TB120>CMD_S3.PA/AWD-0007</UEM_uxuemloa_LOARefNo_TB120>
+      <UEM_uxuemloa_LOANoOld_TB120>DemoOracle</UEM_uxuemloa_LOANoOld_TB120>
+      <UEMS_uxloa_LmtRtntn_DA>5.00000000</UEMS_uxloa_LmtRtntn_DA>
+      <UEMS_uxloa_RtntnAmnt_CA>-50.00000000</UEMS_uxloa_RtntnAmnt_CA>
+      <UEMS_uxcop_LDCAcc_CA>0.00000000</UEMS_uxcop_LDCAcc_CA>
+      <UEMS_uxcop_LDPAcc_CA>0.00000000</UEMS_uxcop_LDPAcc_CA>
+      <UEMS_uxcop_LDTisClm_CA>0.00000000</UEMS_uxcop_LDTisClm_CA>
+      <UEMS_uxcop_MOSCAcc_CA>0.00000000</UEMS_uxcop_MOSCAcc_CA>
+      <UEMS_uxcop_MOS75PPAcc_CA>0.00000000</UEMS_uxcop_MOS75PPAcc_CA>
+      <UEMS_uxcop_MOSTisClm_CA>0.00000000</UEMS_uxcop_MOSTisClm_CA>
+      <UEMS_uxcop_MOSPer_DA>75.00000000</UEMS_uxcop_MOSPer_DA>
+      <UEMS_uxcop_MOSAmt_CA>0.00000000</UEMS_uxcop_MOSAmt_CA>
+      <UEMS_uxcop_RetSumCAcc_CA>-4.00000000</UEMS_uxcop_RetSumCAcc_CA>
+      <UEMS_uxcop_MUPENCAcc_CA>0.00000000</UEMS_uxcop_MUPENCAcc_CA>
+      <UEMS_uxcop_MUPENPAcc_CA>0.00000000</UEMS_uxcop_MUPENPAcc_CA>
+      <UEMS_uxcop_MUPENTisClm_CA>0.00000000</UEMS_uxcop_MUPENTisClm_CA>
+      <UEMS_uxcop_NetWD6PTisClm_CA>0.00000000</UEMS_uxcop_NetWD6PTisClm_CA>
+      <UEMS_uxcop_OriConSum_CA>1000.00000000</UEMS_uxcop_OriConSum_CA>
+      <UEMS_uxcop_DMAcceCAcc_CA>0.00000000</UEMS_uxcop_DMAcceCAcc_CA>
+      <UEMS_uxcop_DMAccePAcc_CA>0.00000000</UEMS_uxcop_DMAccePAcc_CA>
+      <UEMS_uxcop_DMAcceTisClm_CA>0.00000000</UEMS_uxcop_DMAcceTisClm_CA>
+      <UEMS_uxcop_OTConCAcc_CA>0.00000000</UEMS_uxcop_OTConCAcc_CA>
+      <UEMS_uxcop_OTConPAcc_CA>0.00000000</UEMS_uxcop_OTConPAcc_CA>
+      <UEMS_uxcop_OTConTisClm_CA>0.00000000</UEMS_uxcop_OTConTisClm_CA>
+      <UEMS_uxloawo_PckgNme_TB250>DemoOracle</UEMS_uxloawo_PckgNme_TB250>
+      <UEMS_uxloawo_PckgNme_TB50></UEMS_uxloawo_PckgNme_TB50>
+      <UEMS_uxloa_PrjctDsc_MTL4000>DemoOracle</UEMS_uxloa_PrjctDsc_MTL4000>
+      <UEMS_upr_ProjID_TB120>S3.PA</UEMS_upr_ProjID_TB120>
+      <project_projectname>SOLARIS - PLOT A</project_projectname>
+      <project_projectnumber>P-0084</project_projectnumber>
+      <record_no>COP-0000004</record_no>
+      <UEMS_uxcop_RelRetPrev_CA>0.00000000</UEMS_uxcop_RelRetPrev_CA>
+      <UEMS_uxcop_RelRetainage_CA>0.00000000</UEMS_uxcop_RelRetainage_CA>
+      <UEMS_uxcop_RelRetCurr_CA>0.00000000</UEMS_uxcop_RelRetCurr_CA>
+      <UEMS_uxcop_RetNSPBCAcc_CA>0.00000000</UEMS_uxcop_RetNSPBCAcc_CA>
+      <UEMS_uxcop_RetNSPBPAcc_CA>0.00000000</UEMS_uxcop_RetNSPBPAcc_CA>
+      <UEMS_uxcop_RetNSPBTisClm_CA>0.00000000</UEMS_uxcop_RetNSPBTisClm_CA>
+      <UEMS_uxcop_RetPEachCOP_DA>10.00000000</UEMS_uxcop_RetPEachCOP_DA>
+      <UEMS_uxcop_RetSumGCAcc_SNQB>0.00000000</UEMS_uxcop_RetSumGCAcc_SNQB>
+      <UEMS_uxcop_RetSumCAcc_SNQB>-4.00000000</UEMS_uxcop_RetSumCAcc_SNQB>
+      <UEMS_uxcop_AdjConSum_CA>1000.00000000</UEMS_uxcop_AdjConSum_CA>
+      <status>Pending</status>
+      <UEMS_uxcop_TNBPenCAcc_CA>0.00000000</UEMS_uxcop_TNBPenCAcc_CA>
+      <UEMS_uxcop_TNBPenPAcc_CA>0.00000000</UEMS_uxcop_TNBPenPAcc_CA>
+      <UEMS_uxcop_TNBPenTisClm_CA>0.00000000</UEMS_uxcop_TNBPenTisClm_CA>
+      <UEMS_uxcop_APrevCert_CA>36.00000000</UEMS_uxcop_APrevCert_CA>
+      <UEMS_uxall_TCApp_SNQB>0.00000000</UEMS_uxall_TCApp_SNQB>
+      <UEMS_uxcop_TDA6PTisClm_CA>0.00000000</UEMS_uxcop_TDA6PTisClm_CA>
+      <UEMS_uxcop_TGST6PTisClm_CA>0.00000000</UEMS_uxcop_TGST6PTisClm_CA>
+      <UEMS_uxcop_TotPreP0GST_CA>0.00000000</UEMS_uxcop_TotPreP0GST_CA>
+      <UEMS_uxcop_TotPreP6GST_CA>0.00000000</UEMS_uxcop_TotPreP6GST_CA>
+      <upaSumOfRetainageCA>-4.00000000</upaSumOfRetainageCA>
+      <UEMS_uxcop_VODCOWD0PTC_CA>0.00000000</UEMS_uxcop_VODCOWD0PTC_CA>
+      <UEMS_uxcop_VODCOWD6PTC_CA>0.00000000</UEMS_uxcop_VODCOWD6PTC_CA>
+      <UEMS_uxcop_VOICVOGSTCAc_CA>0.00000000</UEMS_uxcop_VOICVOGSTCAc_CA>
+      <UEMS_uxcop_VOICVO6GSTCAc_CA>0.00000000</UEMS_uxcop_VOICVO6GSTCAc_CA>
+      <UEMS_uxcop_VOICerVOWOGST_CA>0.00000000</UEMS_uxcop_VOICerVOWOGST_CA>
+      <UEMS_uxcop_VOICerVOWGST_CA>0.00000000</UEMS_uxcop_VOICerVOWGST_CA>
+      <UEMS_uxcop_VarOrder_CA>0.00000000</UEMS_uxcop_VarOrder_CA>
+      <UEMS_uxrecven_VndorNm_TB250>WINENRICH ENTERPRISE SDN. BHD.</UEMS_uxrecven_VndorNm_TB250>
+      <UEMS_uxcop_NetWDCC_CA>0.00000000</UEMS_uxcop_NetWDCC_CA>
+      <UEMS_uxcop_NetWDPAA_CA>0.00000000</UEMS_uxcop_NetWDPAA_CA>
+      <UEMS_uxcop_NetWDTC_CA>0.00000000</UEMS_uxcop_NetWDTC_CA>
+      <UEMS_uxcop_TotDedAmtCC_CA>0.00000000</UEMS_uxcop_TotDedAmtCC_CA>
+      <UEMS_uxcop_TotDedAmtPAA_CA>0.00000000</UEMS_uxcop_TotDedAmtPAA_CA>
+      <UEMS_uxcop_TotDedAmtTC_CA>0.00000000</UEMS_uxcop_TotDedAmtTC_CA>
+      <UEMS_uxcop_TotGSTAmtCC_CA>0.00000000</UEMS_uxcop_TotGSTAmtCC_CA>
+      <UEMS_uxcop_TotGSTAmtPAA_CA>0.00000000</UEMS_uxcop_TotGSTAmtPAA_CA>
+      <UEMS_uxcop_TotGSTAmtTC_CA>0.00000000</UEMS_uxcop_TotGSTAmtTC_CA>
+      <UEMS_uxcop_TotAmtRecTC_CA>0.00000000</UEMS_uxcop_TotAmtRecTC_CA>
+      <UEMS_uxcop_AsPLerRef_TB120></UEMS_uxcop_AsPLerRef_TB120>
+      <UEMS_uxcop_BankAccNo_TB250></UEMS_uxcop_BankAccNo_TB250>
+      <UEMS_uxcop_BankAdd_TB250></UEMS_uxcop_BankAdd_TB250>
+      <UEMS_uxcop_BankName_TB250></UEMS_uxcop_BankName_TB250>
+      <UEMS_uxcop_CerRec_DO></UEMS_uxcop_CerRec_DO>
+      <UEMS_uxcop_DOC_DO></UEMS_uxcop_DOC_DO>
+      <UEMS_uxcop_InvcDt_DO></UEMS_uxcop_InvcDt_DO>
+      <UEMS_uxcop_InvcNo_TB120></UEMS_uxcop_InvcNo_TB120>
+      <UEMS_uxcop_LatPayDt_DO></UEMS_uxcop_LatPayDt_DO>
+      <UEMS_uxcop_PerEnd_DO></UEMS_uxcop_PerEnd_DO>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~A3~~3431</bItemID>
+      <scheduled_value>1000.00</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>40.00</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>0.00</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>desc</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>1</_refnum>
+</_bp_lineitems>
+</_bp>
+<_bp>
+      <UEMS_uxcop_GWDCAcc_CA>40.00000000</UEMS_uxcop_GWDCAcc_CA>
+      <UEMS_uxcop_GWDPAcc_CA>0.00000000</UEMS_uxcop_GWDPAcc_CA>
+      <UEMS_uxcop_GrsWDTisClm_CA>40.00000000</UEMS_uxcop_GrsWDTisClm_CA>
+      <UEMS_uxcop_NWDCAcc_CA>36.00000000</UEMS_uxcop_NWDCAcc_CA>
+      <UEMS_uxcop_NWDPAcc_CA>0.00000000</UEMS_uxcop_NWDPAcc_CA>
+      <UEMS_uxcop_NetWDTisClm_CA>36.00000000</UEMS_uxcop_NetWDTisClm_CA>
+      <UEMS_uxcop_DtConPAcc_CA>0.00000000</UEMS_uxcop_DtConPAcc_CA>
+      <UEMS_uxcop_TDACAcc_CA>0.00000000</UEMS_uxcop_TDACAcc_CA>
+      <UEMS_uxcop_TotDAmtTisClm_CA>0.00000000</UEMS_uxcop_TotDAmtTisClm_CA>
+      <UEMS_uxcop_TRAPAcc_CA>0.00000000</UEMS_uxcop_TRAPAcc_CA>
+      <UEMS_uxcop_TotRetCAcc_CA>0.00000000</UEMS_uxcop_TotRetCAcc_CA>
+      <UEMS_uxcop_TotRetTisPer_CA>0.00000000</UEMS_uxcop_TotRetTisPer_CA>
+      <UEMS_uxcop_TMCertCAcc_CA>36.00000000</UEMS_uxcop_TMCertCAcc_CA>
+      <UEMS_uxcop_TACertPAcc_CA>0.00000000</UEMS_uxcop_TACertPAcc_CA>
+      <UEMS_uxcop_UShDrwCAcc_CA>0.00000000</UEMS_uxcop_UShDrwCAcc_CA>
+      <UEMS_uxcop_UShDrwPAcc_CA>0.00000000</UEMS_uxcop_UShDrwPAcc_CA>
+      <UEMS_uxcop_UShDrwTisClm_CA>0.00000000</UEMS_uxcop_UShDrwTisClm_CA>
+      <UEMS_uxcop_arccertdoc_PD>0</UEMS_uxcop_arccertdoc_PD>
+      <UEM_uxcop_AssBank_MTL4000></UEM_uxcop_AssBank_MTL4000>
+      <UEMS_uxall_AwrdAmnt_CA>40.00000000</UEMS_uxall_AwrdAmnt_CA>
+      <UEMS_uxallcnc_BRegNo_TB16></UEMS_uxallcnc_BRegNo_TB16>
+      <UEMS_uxcop_CMGD_DOP></UEMS_uxcop_CMGD_DOP>
+      <UEMS_uxcop_CNC_DOP></UEMS_uxcop_CNC_DOP>
+      <UEMS_uxcop_CopNo_TB32>cop6</UEMS_uxcop_CopNo_TB32>
+      <UEMS_uxcop_CPC_DOP></UEMS_uxcop_CPC_DOP>
+      <UEMS_uxcop_COWDCAcc_CA>40.00000000</UEMS_uxcop_COWDCAcc_CA>
+      <UEMS_uxcop_COWDPAcc_CA>0.00000000</UEMS_uxcop_COWDPAcc_CA>
+      <UEMS_uxcop_COWD0PTisClm_CA>40.00000000</UEMS_uxcop_COWD0PTisClm_CA>
+      <UEMS_uxcop_COW6DCAcc_CA>0.00000000</UEMS_uxcop_COW6DCAcc_CA>
+      <UEMS_uxcop_COWD6PTisClm_CA>0.00000000</UEMS_uxcop_COWD6PTisClm_CA>
+      <UEMS_uxcop_VOAmt_SNQB>24759796.50000000</UEMS_uxcop_VOAmt_SNQB>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOWOGSTPAcc_CA>0.00000000</UEMS_uxcop_CVOWOGSTPAcc_CA>
+      <UEMS_uxcop_CerVOWOGST_CA>0.00000000</UEMS_uxcop_CerVOWOGST_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00000000</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTPAcc_CA>0.00000000</UEMS_uxcop_CVOW6GSTPAcc_CA>
+      <UEMS_uxcop_CerVOWGST_CA>0.00000000</UEMS_uxcop_CerVOWGST_CA>
+      <UEMS_uxuemsub_CmpnyCd_TB8></UEMS_uxuemsub_CmpnyCd_TB8>
+      <UEMS_uxall_CmpnyNm_TB250></UEMS_uxall_CmpnyNm_TB250>
+      <UEMS_uxcop_ContId_TB32></UEMS_uxcop_ContId_TB32>
+      <UEMS_uxcop_ConName_TB250></UEMS_uxcop_ConName_TB250>
+      <uuu_creation_date>07-09-2019 10:58:20</uuu_creation_date>
+      <creator_id>PRASANTH P</creator_id>
+      <UEMS_uxcoppay_CpaCOP_CA>0.00000000</UEMS_uxcoppay_CpaCOP_CA>
+      <UEMS_uxloa_DtCmncmnt_DOP>07-09-2019 00:00:00</UEMS_uxloa_DtCmncmnt_DOP>
+      <UEMS_uxcop_DConFinTisClm_CA>0.00000000</UEMS_uxcop_DConFinTisClm_CA>
+      <UEMS_uxcop_DTConTisClam_CA>0.00000000</UEMS_uxcop_DTConTisClam_CA>
+      <UEMS_uxcop_DTConFSPAcc_CA>0.00000000</UEMS_uxcop_DTConFSPAcc_CA>
+      <UEMS_uxcop_DConRecCAcc_CA>0.00000000</UEMS_uxcop_DConRecCAcc_CA>
+      <UEMS_uxcop_DConRecPAcc_CA>0.00000000</UEMS_uxcop_DConRecPAcc_CA>
+      <UEMS_uxcop_DConMSTisClm_CA>0.00000000</UEMS_uxcop_DConMSTisClm_CA>
+      <UEMS_uxcop_DConMSCAcc_CA>0.00000000</UEMS_uxcop_DConMSCAcc_CA>
+      <UEMS_uxcop_DConMSPAcc_CA>0.00000000</UEMS_uxcop_DConMSPAcc_CA>
+      <UEMS_uxcop_DConRecTisClm_CA>0.00000000</UEMS_uxcop_DConRecTisClm_CA>
+      <UEM_uxcop_DirPayDet_MTL4000></UEM_uxcop_DirPayDet_MTL4000>
+      <UEMS_uxloawo_DcmntType_PD>Letter of Award</UEMS_uxloawo_DcmntType_PD>
+      <UEMS_uxcop_EOT_DOP></UEMS_uxcop_EOT_DOP>
+      <uuu_effective_date>07-09-2019 10:58:20</uuu_effective_date>
+      <UEMS_uxconsrq_EstdAmnt_CA>40.00000000</UEMS_uxconsrq_EstdAmnt_CA>
+      <UEMS_uxcop_GrsWDP_DA>4.00000000</UEMS_uxcop_GrsWDP_DA>
+      <UEMS_uxcop_GWDP_DA>0.00000000</UEMS_uxcop_GWDP_DA>
+      <UEMS_uxcop_IMLogs_MTL4000></UEMS_uxcop_IMLogs_MTL4000>
+      <UEMS_uxcop_IMStatus_TB32>NEW</UEMS_uxcop_IMStatus_TB32>
+      <UEMS_uxcop_invdoc_PD>0</UEMS_uxcop_invdoc_PD>
+      <UEMS_uxcop_2APCertPAcc_CA>0.00000000</UEMS_uxcop_2APCertPAcc_CA>
+      <UEMS_uxcop_APCertPAcc_CA>0.00000000</UEMS_uxcop_APCertPAcc_CA>
+      <UEMS_uxcop_RecCAcc_CA>0.00000000</UEMS_uxcop_RecCAcc_CA>
+      <UEMS_uxcop_RecoupPAcc_CA>0.00000000</UEMS_uxcop_RecoupPAcc_CA>
+      <UEMS_uxcop_RecTisClm_CA>0.00000000</UEMS_uxcop_RecTisClm_CA>
+      <UEMS_uxcop_RetSumCAccF_CA>-4.00000000</UEMS_uxcop_RetSumCAccF_CA>
+      <UEMS_uxcop_RetSumPAcc_CA>0.00000000</UEMS_uxcop_RetSumPAcc_CA>
+      <UEMS_uxcop_RetSum0P_CA>-4.00000000</UEMS_uxcop_RetSum0P_CA>
+      <UEMS_uxcop_RetSum6PCAcc_CA>0.00000000</UEMS_uxcop_RetSum6PCAcc_CA>
+      <UEMS_uxcop_RetSum6PAcc_CA>0.00000000</UEMS_uxcop_RetSum6PAcc_CA>
+      <UEMS_uxcop_RetSum6P_CA>0.00000000</UEMS_uxcop_RetSum6P_CA>
+      <refid>CMD_S3.PA/AWD-0008</refid>
+      <UEM_uxuemloa_LOARefNo_TB120>CMD_S3.PA/AWD-0008</UEM_uxuemloa_LOARefNo_TB120>
+      <UEM_uxuemloa_LOANoOld_TB120>DemoOracle01</UEM_uxuemloa_LOANoOld_TB120>
+      <UEMS_uxloa_LmtRtntn_DA>5.00000000</UEMS_uxloa_LmtRtntn_DA>
+      <UEMS_uxloa_RtntnAmnt_CA>-50.00000000</UEMS_uxloa_RtntnAmnt_CA>
+      <UEMS_uxcop_LDCAcc_CA>0.00000000</UEMS_uxcop_LDCAcc_CA>
+      <UEMS_uxcop_LDPAcc_CA>0.00000000</UEMS_uxcop_LDPAcc_CA>
+      <UEMS_uxcop_LDTisClm_CA>0.00000000</UEMS_uxcop_LDTisClm_CA>
+      <UEMS_uxcop_MOSCAcc_CA>0.00000000</UEMS_uxcop_MOSCAcc_CA>
+      <UEMS_uxcop_MOS75PPAcc_CA>0.00000000</UEMS_uxcop_MOS75PPAcc_CA>
+      <UEMS_uxcop_MOSTisClm_CA>0.00000000</UEMS_uxcop_MOSTisClm_CA>
+      <UEMS_uxcop_MOSPer_DA>75.00000000</UEMS_uxcop_MOSPer_DA>
+      <UEMS_uxcop_MOSAmt_CA>0.00000000</UEMS_uxcop_MOSAmt_CA>
+      <UEMS_uxcop_RetSumCAcc_CA>-4.00000000</UEMS_uxcop_RetSumCAcc_CA>
+      <UEMS_uxcop_MUPENCAcc_CA>0.00000000</UEMS_uxcop_MUPENCAcc_CA>
+      <UEMS_uxcop_MUPENPAcc_CA>0.00000000</UEMS_uxcop_MUPENPAcc_CA>
+      <UEMS_uxcop_MUPENTisClm_CA>0.00000000</UEMS_uxcop_MUPENTisClm_CA>
+      <UEMS_uxcop_NetWD6PTisClm_CA>0.00000000</UEMS_uxcop_NetWD6PTisClm_CA>
+      <UEMS_uxcop_OriConSum_CA>1000.00000000</UEMS_uxcop_OriConSum_CA>
+      <UEMS_uxcop_DMAcceCAcc_CA>0.00000000</UEMS_uxcop_DMAcceCAcc_CA>
+      <UEMS_uxcop_DMAccePAcc_CA>0.00000000</UEMS_uxcop_DMAccePAcc_CA>
+      <UEMS_uxcop_DMAcceTisClm_CA>0.00000000</UEMS_uxcop_DMAcceTisClm_CA>
+      <UEMS_uxcop_OTConCAcc_CA>0.00000000</UEMS_uxcop_OTConCAcc_CA>
+      <UEMS_uxcop_OTConPAcc_CA>0.00000000</UEMS_uxcop_OTConPAcc_CA>
+      <UEMS_uxcop_OTConTisClm_CA>0.00000000</UEMS_uxcop_OTConTisClm_CA>
+      <UEMS_uxloawo_PckgNme_TB250>DemoOracle</UEMS_uxloawo_PckgNme_TB250>
+      <UEMS_uxloawo_PckgNme_TB50></UEMS_uxloawo_PckgNme_TB50>
+      <UEMS_uxloa_PrjctDsc_MTL4000>DemoOracle01</UEMS_uxloa_PrjctDsc_MTL4000>
+      <UEMS_upr_ProjID_TB120>S3.PA</UEMS_upr_ProjID_TB120>
+      <project_projectname>SOLARIS - PLOT A</project_projectname>
+      <project_projectnumber>P-0084</project_projectnumber>
+      <record_no>COP-0000005</record_no>
+      <UEMS_uxcop_RelRetPrev_CA>0.00000000</UEMS_uxcop_RelRetPrev_CA>
+      <UEMS_uxcop_RelRetainage_CA>0.00000000</UEMS_uxcop_RelRetainage_CA>
+      <UEMS_uxcop_RelRetCurr_CA>0.00000000</UEMS_uxcop_RelRetCurr_CA>
+      <UEMS_uxcop_RetNSPBCAcc_CA>0.00000000</UEMS_uxcop_RetNSPBCAcc_CA>
+      <UEMS_uxcop_RetNSPBPAcc_CA>0.00000000</UEMS_uxcop_RetNSPBPAcc_CA>
+      <UEMS_uxcop_RetNSPBTisClm_CA>0.00000000</UEMS_uxcop_RetNSPBTisClm_CA>
+      <UEMS_uxcop_RetPEachCOP_DA>10.00000000</UEMS_uxcop_RetPEachCOP_DA>
+      <UEMS_uxcop_RetSumGCAcc_SNQB>0.00000000</UEMS_uxcop_RetSumGCAcc_SNQB>
+      <UEMS_uxcop_RetSumCAcc_SNQB>-4.00000000</UEMS_uxcop_RetSumCAcc_SNQB>
+      <UEMS_uxcop_AdjConSum_CA>1000.00000000</UEMS_uxcop_AdjConSum_CA>
+      <status>Pending</status>
+      <UEMS_uxcop_TNBPenCAcc_CA>0.00000000</UEMS_uxcop_TNBPenCAcc_CA>
+      <UEMS_uxcop_TNBPenPAcc_CA>0.00000000</UEMS_uxcop_TNBPenPAcc_CA>
+      <UEMS_uxcop_TNBPenTisClm_CA>0.00000000</UEMS_uxcop_TNBPenTisClm_CA>
+      <UEMS_uxcop_APrevCert_CA>36.00000000</UEMS_uxcop_APrevCert_CA>
+      <UEMS_uxall_TCApp_SNQB>0.00000000</UEMS_uxall_TCApp_SNQB>
+      <UEMS_uxcop_TDA6PTisClm_CA>0.00000000</UEMS_uxcop_TDA6PTisClm_CA>
+      <UEMS_uxcop_TGST6PTisClm_CA>0.00000000</UEMS_uxcop_TGST6PTisClm_CA>
+      <UEMS_uxcop_TotPreP0GST_CA>0.00000000</UEMS_uxcop_TotPreP0GST_CA>
+      <UEMS_uxcop_TotPreP6GST_CA>0.00000000</UEMS_uxcop_TotPreP6GST_CA>
+      <upaSumOfRetainageCA>-4.00000000</upaSumOfRetainageCA>
+      <UEMS_uxcop_VODCOWD0PTC_CA>0.00000000</UEMS_uxcop_VODCOWD0PTC_CA>
+      <UEMS_uxcop_VODCOWD6PTC_CA>0.00000000</UEMS_uxcop_VODCOWD6PTC_CA>
+      <UEMS_uxcop_VOICVOGSTCAc_CA>0.00000000</UEMS_uxcop_VOICVOGSTCAc_CA>
+      <UEMS_uxcop_VOICVO6GSTCAc_CA>0.00000000</UEMS_uxcop_VOICVO6GSTCAc_CA>
+      <UEMS_uxcop_VOICerVOWOGST_CA>0.00000000</UEMS_uxcop_VOICerVOWOGST_CA>
+      <UEMS_uxcop_VOICerVOWGST_CA>0.00000000</UEMS_uxcop_VOICerVOWGST_CA>
+      <UEMS_uxcop_VarOrder_CA>0.00000000</UEMS_uxcop_VarOrder_CA>
+      <UEMS_uxrecven_VndorNm_TB250>WINENRICH ENTERPRISE SDN. BHD.</UEMS_uxrecven_VndorNm_TB250>
+      <UEMS_uxcop_NetWDCC_CA>0.00000000</UEMS_uxcop_NetWDCC_CA>
+      <UEMS_uxcop_NetWDPAA_CA>0.00000000</UEMS_uxcop_NetWDPAA_CA>
+      <UEMS_uxcop_NetWDTC_CA>0.00000000</UEMS_uxcop_NetWDTC_CA>
+      <UEMS_uxcop_TotDedAmtCC_CA>0.00000000</UEMS_uxcop_TotDedAmtCC_CA>
+      <UEMS_uxcop_TotDedAmtPAA_CA>0.00000000</UEMS_uxcop_TotDedAmtPAA_CA>
+      <UEMS_uxcop_TotDedAmtTC_CA>0.00000000</UEMS_uxcop_TotDedAmtTC_CA>
+      <UEMS_uxcop_TotGSTAmtCC_CA>0.00000000</UEMS_uxcop_TotGSTAmtCC_CA>
+      <UEMS_uxcop_TotGSTAmtPAA_CA>0.00000000</UEMS_uxcop_TotGSTAmtPAA_CA>
+      <UEMS_uxcop_TotGSTAmtTC_CA>0.00000000</UEMS_uxcop_TotGSTAmtTC_CA>
+      <UEMS_uxcop_TotAmtRecTC_CA>0.00000000</UEMS_uxcop_TotAmtRecTC_CA>
+      <UEMS_uxcop_AsPLerRef_TB120></UEMS_uxcop_AsPLerRef_TB120>
+      <UEMS_uxcop_BankAccNo_TB250></UEMS_uxcop_BankAccNo_TB250>
+      <UEMS_uxcop_BankAdd_TB250></UEMS_uxcop_BankAdd_TB250>
+      <UEMS_uxcop_BankName_TB250></UEMS_uxcop_BankName_TB250>
+      <UEMS_uxcop_CerRec_DO></UEMS_uxcop_CerRec_DO>
+      <UEMS_uxcop_DOC_DO></UEMS_uxcop_DOC_DO>
+      <UEMS_uxcop_InvcDt_DO></UEMS_uxcop_InvcDt_DO>
+      <UEMS_uxcop_InvcNo_TB120></UEMS_uxcop_InvcNo_TB120>
+      <UEMS_uxcop_LatPayDt_DO></UEMS_uxcop_LatPayDt_DO>
+      <UEMS_uxcop_PerEnd_DO></UEMS_uxcop_PerEnd_DO>
+<_bp_lineitems>
+      <uuu_tab_id>Summary BOQ</uuu_tab_id>
+      <bItemID>00~~A3~~3431</bItemID>
+      <scheduled_value>1000.00</scheduled_value>
+      <UEMS_uxcop_DFCOWDCAcc_CA>40.00</UEMS_uxcop_DFCOWDCAcc_CA>
+      <UEMS_uxcop_DFCOW6DCAcc_CA>0.00</UEMS_uxcop_DFCOW6DCAcc_CA>
+      <UEMS_uxcop_VODFCOWDCAcc_CA>0.00</UEMS_uxcop_VODFCOWDCAcc_CA>
+      <UEMS_uxcop_VODFCOWD6CAcc_CA>0.00</UEMS_uxcop_VODFCOWD6CAcc_CA>
+      <ugenRemarksTB250></ugenRemarksTB250>
+      <UEMS_uxcop_VO_DOP></UEMS_uxcop_VO_DOP>
+      <UEMS_uxcop_CVOWOGSTCAcc_CA>0.00</UEMS_uxcop_CVOWOGSTCAcc_CA>
+      <UEMS_uxcop_CVOW6GSTCAcc_CA>0.00</UEMS_uxcop_CVOW6GSTCAcc_CA>
+      <ugenRemarksTB4000></ugenRemarksTB4000>
+      <description>desc</description>
+      <uuu_unit_price>0.00</uuu_unit_price>
+      <ugenUnitofMeasurePD></ugenUnitofMeasurePD>
+      <uuu_quantity>0.0</uuu_quantity>
+      <short_desc>Contract WorkOrderCOP</short_desc>
+      <_breakdown></_breakdown>
+      <_refnum>1</_refnum>
+</_bp_lineitems>
+</_bp>
+</List_Wrapper>
